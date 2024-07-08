@@ -1,6 +1,3 @@
-# Hi, there 👋
-
-## Tech stack
 ### Programming languages
 ![java](https://img.shields.io/badge/java-E34F26?style=for-the-badge&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -19,8 +16,3 @@
 ### Devops
 ![git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![github actions](https://img.shields.io/badge/github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-- 👋 Hi, I’m @AnmolGrewal
-- 👀 I’m interested in Full Stack Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by email @ anmolsgrewal@gmail.com
